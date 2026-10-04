@@ -6,9 +6,10 @@
 |---|---|
 | 话题 | 单元标题 + 副标题（大问题）+ 听说读写的任务 |
 | 句型 | 教材 Key Sentences（Starter）或 Section B 的问句 |
-| 语法 | Section B 的 Grammar，**单元考直接对应** |
-| 语音 | Pronunciation（音标、重音、连读） |
+| 语法 | Section A / B 的 Grammar，**单元考直接对应** |
+| 语音 | Pronunciation（音标、重音、连读、语调） |
 | 写作 | Section B 的 Writing 任务 |
+| 词汇 | Section B 的 Vocabulary：词群、词缀（七上没有这栏，八上起有） |
 | 项目 | Project |
 
 **英文原词保留、不翻译**——老师、题库、错题 topic 都按教材的说法对齐。
